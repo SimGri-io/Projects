@@ -1,3 +1,15 @@
+The budget calculator project developed using JavaScript, React, React Hooks (useState, useEffect), CSS.
+Watch project preview: https://youtu.be/8hsuo9EeGRs
+Check out code gif: https://media.giphy.com/media/fSqYi51DJ2ZfIqEY7N/giphy.gif
+Find the project hosted at: http://feigned-ducks.surge.sh/ 
+
+Possible project updates:
+-create folder structure
+-use esLint 
+-update CSS
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
