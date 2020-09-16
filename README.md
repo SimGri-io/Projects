@@ -6,7 +6,7 @@
 - React Hooks (useState, useEffect)
 - CSS
 
-![](https://media.giphy.com/media/fSqYi51DJ2ZfIqEY7N/giphy.gif)
+![](https://github.com/SimGri-io/Projects/blob/master/Projects-src-at-master-SimGri-io.gif)
 
 ![](https://github.com/SimGri-io/Projects/blob/master/React-App-Google-Chrome-2020-09.gif)
 
