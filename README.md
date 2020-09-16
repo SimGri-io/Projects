@@ -8,7 +8,7 @@
 
 ![](https://media.giphy.com/media/fSqYi51DJ2ZfIqEY7N/giphy.gif)
 
-![](https://media.giphy.com/media/LSKOeha09GHUxi9W6r/giphy.gif)
+![](https://github.com/SimGri-io/Projects/blob/master/React-App-Google-Chrome-2020-09.gif)
 
 ## Watch project preview:
 
